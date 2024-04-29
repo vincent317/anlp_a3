@@ -1,0 +1,41 @@
+start copying task for  25
+0.9375
+the time spent is 15.364068508148193
+start copying task for  50
+0.9
+the time spent is 26.06812357902527
+start copying task for  100
+0.8125
+the time spent is 50.8453586101532
+start copying task for  150
+0.6375
+the time spent is 76.11041641235352
+start copying task for  200
+0.5
+the time spent is 104.49928379058838
+start copying task for  250
+0.375
+the time spent is 128.88148760795593
+the result 1.4b time is  [15.364068508148193, 26.06812357902527, 50.8453586101532, 76.11041641235352, 104.49928379058838, 128.88148760795593]
+the result 1.4b is  [0.9375, 0.9, 0.8125, 0.6375, 0.5, 0.375]
+start copying task for  25
+0.9125
+the time spent is 13.290314435958862
+start copying task for  50
+0.825
+the time spent is 26.11659002304077
+start copying task for  100
+0.3625
+the time spent is 50.90010333061218
+start copying task for  150
+0.025
+the time spent is 76.14474940299988
+start copying task for  200
+0.0
+the time spent is 104.48942613601685
+start copying task for  250
+0.0
+the time spent is 128.90133333206177
+the shuffle 14b results [0.9125, 0.825, 0.3625, 0.025, 0.0, 0.0]
+the shuffle 14b time [13.290314435958862, 26.11659002304077, 50.90010333061218, 76.14474940299988, 104.48942613601685, 128.90133333206177]
+
